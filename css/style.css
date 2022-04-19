@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;font-family: 'Akshar', sans-serif;
+}
+header{
+    background-color: #5472F0;
+}
+.container-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 6vh;
+}
+.arrow-left{
+    color: #fff;
+    padding-left: 0.5em;
+}
+.notif p{
+    color: #fff;
+    font-weight: 400;
+}
